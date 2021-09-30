@@ -1,4 +1,4 @@
-# I am:metal:
+# I am:pig:
 
 ```java
 public class Human {
@@ -10,11 +10,11 @@ public class Human {
 }
 ```
 
-# Stats
+# Stats:metal:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudwns0921&show_icons=true&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-# Languages
+# Languages:earth_asia:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudwns0921&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
