@@ -1,17 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello, I'm Jun&fontSize=90" />	
+# Hello, I'm Jun :pig:
 
 [<img src="https://img.shields.io/badge/Mypage-B178EA?style=flat-square"/>](https://glowingjung.oopy.io/)[<img src="https://img.shields.io/badge/LinkedIn-0074C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-2416ab22a/)
 
+
+
 # :books:Curriculum
 
-<img src="./md-images/image-20220112222008492.png" alt="image-20220112222008492" style="zoom:50%;" />	
+<img src="./md-images/image-20220112222008492.png" alt="image-20220112222008492" width="200px" />	
 
 ### 멀티캠퍼스 부트캠프(21.09~21.12)
+
+
 
 #### :white_check_mark:학습 성과
 
 - Java 기초부터 자료구조, 스프링과 같은 필수 기술능력 습득
--  Java 기반 웹 개발에서 중요한 객체지향 개념을 이해하고 활용할 수 있는 기술능력 습득 
+- Java 기반 웹 개발에서 중요한 객체지향 개념을 이해하고 활용할 수 있는 기술능력 습득 
 - sql을 활용해 데이터베이스에서 crud 작업을 수행할 수 있는 기술능력 습득 
 - React 기반의 웹 서비스 개발 경험 
 - Restful API 사용 경험 
