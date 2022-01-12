@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello, I'm Jun.&fontSize=90)	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello, I'm Jun&fontSize=90" />	
 
 # :books:Curriculum
 
