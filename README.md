@@ -2,7 +2,7 @@
 
 # :books:Curriculum
 
-![image-20220112222008492](C:\Users\User\Desktop\dudwns0921\md-images\image-20220112222008492.png)	
+![image-20220112222008492](./md-images/image-20220112222008492.png)	
 
 ### 멀티캠퍼스 부트캠프(21.09~21.12)
 
