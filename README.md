@@ -43,13 +43,13 @@
 
 # :zap:Project
 
-- ### [야보자! 이거어때?](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [야보자! 이거어때?](https://glowingjung.oopy.io/f524071d-d094-4a1e-a545-6d4266ccc68a)
 
-- ### [SCSS Practice](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [SCSS Practice](https://glowingjung.oopy.io/3d4ac25d-9e3d-4e66-8fb2-0be6c65d7d43)
 
-- ### [코코아톡 클론](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [코코아톡 클론](https://glowingjung.oopy.io/acc17913-7de5-43e4-aa88-7c8eeefa4f58)
 
-- ### [Paint JS](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [Paint JS](https://glowingjung.oopy.io/cf471c90-633c-404b-8523-a99a8eb49b85)
 
-- ### [일과 여행](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [일과 여행](https://glowingjung.oopy.io/71e38f5d-f3a9-4719-bbc9-fbbecd6e4461)
 
