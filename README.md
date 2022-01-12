@@ -45,11 +45,11 @@
 
 - ### [야보자! 이거어때?](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
 
-- ## [SCSS Practice](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [SCSS Practice](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
 
-- ## [코코아톡 클론](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [코코아톡 클론](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
 
-- ## [Paint JS](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [Paint JS](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
 
-- ## [일과 여행](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
+- ### [일과 여행](https://app.oopy.io/home?utm_source=oopy&utm_medium=homepage)
 
