@@ -12,6 +12,8 @@
 - 데이터 모델링을 이해하고 분석하는 작업을 수행하는 능력 함양
 - SQL 문법, 옵티마이저, 인덱스의 기초 이해를 바탕으로 SQL 활용, 최적화하는 능력 함양
 
+
+
 ### :mortar_board:멀티캠퍼스 부트캠프(21.09~21.12)
 
 #### :white_check_mark:학습 성과
@@ -30,7 +32,7 @@
 
 ## Studying
 
-<img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-0074C2?style=flat-square&logo=Typescript&logoColor=white"/><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>	
+<img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>	
 
 ## Use well
 
@@ -43,7 +45,7 @@
 
 ## Tool
 
-<img src="https://img.shields.io/badge/Github-1A1D21?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-520C47?style=flat-square&logo=slack&logoColor=white"/>  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-F16632?style=flat-square&logo=Postman&logoColor=white"/><img src="https://img.shields.io/badge/gatherTown-4155D5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Github-1A1D21?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-520C47?style=flat-square&logo=slack&logoColor=white"/>  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-F16632?style=flat-square&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/gatherTown-4155D5?style=flat-square"/>
 
 
 
