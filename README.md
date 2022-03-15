@@ -12,8 +12,6 @@
 - 데이터 모델링을 이해하고 분석하는 작업을 수행하는 능력 함양
 - SQL 문법, 옵티마이저, 인덱스의 기초 이해를 바탕으로 SQL 활용, 최적화하는 능력 함양
 
-
-
 ### :mortar_board:멀티캠퍼스 부트캠프(21.09~21.12)
 
 #### :white_check_mark:학습 성과
@@ -26,13 +24,11 @@
 - Git 등 형상관리 프로세스에 익숙해짐 
 - Notion, Slack 등 협업툴에 익숙해짐
 
-
-
 # :scroll:Tech Stack
 
 ## Studying
 
-<img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>	
+<img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>    
 
 ## Use well
 
@@ -47,20 +43,16 @@
 
 <img src="https://img.shields.io/badge/Github-1A1D21?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-520C47?style=flat-square&logo=slack&logoColor=white"/>  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-F16632?style=flat-square&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/gatherTown-4155D5?style=flat-square"/>
 
-
-
 # :zap:Project
 
-- ### [야보자! 이거어때?](https://glowingjung.oopy.io/f524071d-d094-4a1e-a545-6d4266ccc68a)
+- ### [야보자! 이거어때?]([야보자! 이거어때?](https://glowingjung.oopy.io/1496bb5b-c793-4deb-8acb-b9eae737c703))
 
 - ### [트위터 클론코딩](https://glowingjung.oopy.io/685aae2e-071a-451c-9816-a23f15519f1a)
 
-- ### [코코아톡 클론](https://glowingjung.oopy.io/acc17913-7de5-43e4-aa88-7c8eeefa4f58)
+- ### [코코아톡 클론](https://glowingjung.oopy.io/6711e579-c419-4a15-8abb-7a88347db747)
 
-- ### [Paint JS](https://glowingjung.oopy.io/cf471c90-633c-404b-8523-a99a8eb49b85)
+- ### [Paint JS](https://glowingjung.oopy.io/907e2696-5577-4154-b41f-546c4fd5eed9)
 
-- ### [일과 여행](https://glowingjung.oopy.io/71e38f5d-f3a9-4719-bbc9-fbbecd6e4461)
+- ### [일과 여행](https://glowingjung.oopy.io/9a852e02-bdc5-4a66-863c-5a067b449222)
 
-- ### [SCSS Practice](https://glowingjung.oopy.io/3d4ac25d-9e3d-4e66-8fb2-0be6c65d7d43)
-
-- ### [모두의 퀘스트](./https://glowingjung.oopy.io/7844e7c7-ebd1-4d32-8a05-7980027778bf)
+- ### [Sass Practice](https://glowingjung.oopy.io/a6484745-f714-4735-a654-6683d457ff50)
