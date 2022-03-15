@@ -45,13 +45,13 @@
 
 # :zap:Project
 
-- ### [야보자! 이거어때?]([야보자! 이거어때?](https://glowingjung.oopy.io/1496bb5b-c793-4deb-8acb-b9eae737c703))
+- ### [야보자! 이거어때?](https://glowingjung.oopy.io/1496bb5b-c793-4deb-8acb-b9eae737c703)
 
-- ### [트위터 클론코딩](https://glowingjung.oopy.io/685aae2e-071a-451c-9816-a23f15519f1a)
+- ### [느위터](https://glowingjung.oopy.io/c267e4aa-573d-4da5-8c5e-ad73ddd7d347)
 
-- ### [코코아톡 클론](https://glowingjung.oopy.io/6711e579-c419-4a15-8abb-7a88347db747)
+- ### [코코아톡](https://glowingjung.oopy.io/6711e579-c419-4a15-8abb-7a88347db747)
 
-- ### [Paint JS](https://glowingjung.oopy.io/907e2696-5577-4154-b41f-546c4fd5eed9)
+- ### [PaintJS](https://glowingjung.oopy.io/907e2696-5577-4154-b41f-546c4fd5eed9)
 
 - ### [일과 여행](https://glowingjung.oopy.io/9a852e02-bdc5-4a66-863c-5a067b449222)
 
