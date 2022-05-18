@@ -1,6 +1,13 @@
 # Hello, I'm Jun :pig:
 
-[<img src="https://img.shields.io/badge/Mypage-B178EA?style=flat-square"/>](https://glowingjung.oopy.io/)  [<img src="https://img.shields.io/badge/LinkedIn-0074C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-2416ab22a/)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/c8d96ca0e10d4113a995ad7a6c119c57#7c813ddc7a344513a2a4bac8f5ce5cb9)  [<img src="https://img.shields.io/badge/LinkedIn-0074C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%98%81%EC%A4%80-%EC%A0%95-2416ab22a/)
+
+# :office: Career
+
+### :car:Obigo(22.03~현재)
+
+- 스마트카 플랫폼 SW 회사
+- 프론트엔드 개발자로 근무중
 
 # :books:Curriculum
 
@@ -28,31 +35,14 @@
 
 ## Studying
 
-<img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Typescipt-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>    
 
 ## Use well
 
-<img src="https://img.shields.io/badge/React-46CAF2?style=flat-square&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-0091D5?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
-
-## Have used
-
-<img src="https://img.shields.io/badge/node.js-89BB3C?style=flat-square&logo=node.js&logoColor=white"/>  <img src="https://img.shields.io/badge/java-18252B?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/spring-67AA3C?style=flat-square&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/React Native-46CAF2?style=flat-square&logo=react&logoColor=white"/></br>
-<img src="https://img.shields.io/badge/oracle-C61F22?style=flat-square&logo=oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-417399?style=flat-square&logo=mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-F1BA00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/python-336D9A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-C45F92?style=flat-square&logo=sass&logoColor=white"/>
-
-## Tool
-
-<img src="https://img.shields.io/badge/Github-1A1D21?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Slack-520C47?style=flat-square&logo=slack&logoColor=white"/>  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-F16632?style=flat-square&logo=Postman&logoColor=white"/>  <img src="https://img.shields.io/badge/gatherTown-4155D5?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-46CAF2?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
 
 # :zap:Project
 
-- ### [야보자! 이거어때?](https://glowingjung.oopy.io/1496bb5b-c793-4deb-8acb-b9eae737c703)
+- ### [야보자! 이거어때?](https://github.com/Seongtaek-H/yabojaFront)
 
-- ### [느위터](https://glowingjung.oopy.io/c267e4aa-573d-4da5-8c5e-ad73ddd7d347)
-
-- ### [코코아톡](https://glowingjung.oopy.io/6711e579-c419-4a15-8abb-7a88347db747)
-
-- ### [PaintJS](https://glowingjung.oopy.io/907e2696-5577-4154-b41f-546c4fd5eed9)
-
-- ### [일과 여행](https://glowingjung.oopy.io/9a852e02-bdc5-4a66-863c-5a067b449222)
-
-- ### [Sass Practice](https://glowingjung.oopy.io/a6484745-f714-4735-a654-6683d457ff50)
+- ### [코코아톡](https://github.com/dudwns0921/nomad-coders_kokoa-clone)
