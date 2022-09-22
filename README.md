@@ -6,7 +6,9 @@
 
 나뿐만 아니라 남들도 이해할 수 있는 글을 쓰려고 노력하고 있습니다.
 
-[쓴 글 보러가기](https://github.com/dudwns0921/TIL/blob/master/Javascript/Javascript_debounce&throttle.md)
+[개발 관련 글 보러가기](https://github.com/dudwns0921/TIL/blob/master/Javascript/Javascript_debounce&throttle.md)
+
+[수기공모전 입상작 보러가기](https://docs.google.com/document/d/1FLpqFgVrHNa4Q1mDAxQE-IFRRr-SvIpP/edit?usp=sharing&ouid=106089248912006956347&rtpof=true&sd=true)
 
 # 🏙Career
 
