@@ -28,11 +28,9 @@
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
 
-# :zap:Project
+# :zap:Side project
 
 - #### [야보자! 이거어때?](https://github.com/Seongtaek-H/yabojaFront)
-
-- #### [코코아톡](https://github.com/dudwns0921/nomad-coders_kokoa-clone)
 
 # 🚀More...
 
