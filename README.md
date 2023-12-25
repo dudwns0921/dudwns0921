@@ -8,29 +8,22 @@
 
 [개발 관련 글 보러가기](https://dudwns0921.github.io/2022/10/06/Debounce-and-Throttle/)
 
-[수기공모전 입상작 보러가기](https://docs.google.com/document/d/1FLpqFgVrHNa4Q1mDAxQE-IFRRr-SvIpP/edit?usp=sharing&ouid=106089248912006956347&rtpof=true&sd=true)
-
 [TIL 저장소 보러가기](https://github.com/dudwns0921/TIL)
 
 # 🏙Career
 
-### Obigo / Moblilty Service Team 2 / Engineer (22.03~재직중)
+### Obigo / AI/Mobility 4 Team / Engineer (22.03~재직중)
 
 스마트카 SW 플랫폼 및 컨텐츠 서비스 회사인 오비고에서 프론트엔드 개발자로 일하고 있습니다.
 
 # :scroll:Tech Stack
-
-### Studying
-
-<img src="https://img.shields.io/badge/Typescipt-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-46CAF2?style=flat-square&logo=React&logoColor=white"/>	
-
 ### Use well
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
 
-# :zap:Side project
+### Studying
 
-- #### [야보자! 이거어때?](https://github.com/Seongtaek-H/yabojaFront)
+<img src="https://img.shields.io/badge/Typescipt-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-46CAF2?style=flat-square&logo=React&logoColor=white"/>	
 
 # 🚀More...
 
