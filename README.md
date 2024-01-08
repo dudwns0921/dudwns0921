@@ -21,7 +21,7 @@
 
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white"/>
 
-### Studying
+### Working on
 
 <img src="https://img.shields.io/badge/Typescipt-0074C2?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-46CAF2?style=flat-square&logo=React&logoColor=white"/>	
 
